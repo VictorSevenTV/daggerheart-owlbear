@@ -2,14 +2,14 @@
   "name": "Daggerheart: Harmonia Tracker",
   "version": "1.0.0",
   "manifest_version": 1,
-  "id": "com.harmonia.daggerheart-tracker",
-  "author": "Your Name",
+  "id": "com.victorseventv.daggerheart-tracker",
+  "author": "VictorSevenTV",
   "description": "Campaign tracker for Daggerheart: Harmonia",
-  "icon": "https://YOURUSERNAME.github.io/daggerheart-owlbear/vite.svg",
+  "icon": "https://victorseventv.github.io/daggerheart-owlbear/vite.svg",
   "action": {
     "title": "Harmonia Tracker",
-    "icon": "https://YOURUSERNAME.github.io/daggerheart-owlbear/vite.svg",
-    "popover": "https://YOURUSERNAME.github.io/daggerheart-owlbear/index.html",
+    "icon": "https://victorseventv.github.io/daggerheart-owlbear/vite.svg",
+    "popover": "https://victorseventv.github.io/daggerheart-owlbear/index.html",
     "height": 800,
     "width": 1200
   }
