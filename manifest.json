@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "name": "Harmonia Tracker",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "author": "VictorSevenTV",
   "description": "Daggerheart campaign tracker",
   "action": {
     "title": "Harmonia",
     "icon": "/daggerheart-owlbear/vite.svg",
     "popover": "/daggerheart-owlbear/index.html",
-    "width": 730,
+    "width": 735,
     "height": 900
   }
 }
