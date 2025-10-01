@@ -2,7 +2,7 @@
   "name": "Daggerheart: Harmonia Tracker",
   "version": "1.0.0",
   "manifest_version": 1,
-  "id": "com.victorseventv.daggerheart-tracker",
+  "id": "daggerheart-harmonia-tracker",
   "author": "VictorSevenTV",
   "description": "Campaign tracker for Daggerheart: Harmonia",
   "icon": "https://victorseventv.github.io/daggerheart-owlbear/vite.svg",
