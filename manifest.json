@@ -6,8 +6,8 @@
   "description": "Daggerheart campaign tracker",
   "action": {
     "title": "Harmonia",
-    "icon": "vite.svg",
-    "popover": "index.html",
+    "icon": "/daggerheart-owlbear/vite.svg",
+    "popover": "/daggerheart-owlbear/index.html",
     "width": 1200,
     "height": 800
   }
