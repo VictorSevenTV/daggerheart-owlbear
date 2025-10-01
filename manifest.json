@@ -6,9 +6,9 @@
   "description": "Daggerheart campaign tracker",
   "action": {
     "title": "Harmonia",
-    "icon": "/vite.svg",
-    "popover": "/index.html",
-    "height": 800,
-    "width": 1200
+    "icon": "vite.svg",
+    "popover": "index.html",
+    "width": 1200,
+    "height": 800
   }
 }
