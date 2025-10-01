@@ -5,10 +5,10 @@
   "id": "daggerheart-harmonia-tracker",
   "author": "VictorSevenTV",
   "description": "Campaign tracker for Daggerheart: Harmonia",
-  "icon": "https://victorseventv.github.io/daggerheart-owlbear/vite.svg",
+  "icon": "https://via.placeholder.com/64"
   "action": {
     "title": "Harmonia Tracker",
-    "icon": "https://victorseventv.github.io/daggerheart-owlbear/vite.svg",
+    "icon": "https://via.placeholder.com/64"
     "popover": "https://victorseventv.github.io/daggerheart-owlbear/index.html",
     "height": 800,
     "width": 1200
