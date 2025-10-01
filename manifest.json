@@ -8,6 +8,7 @@
   "icon": "https://victorseventv.github.io/daggerheart-owlbear/vite.svg",
   "action": {
     "title": "Harmonia Tracker",
+    "icon": "https://victorseventv.github.io/daggerheart-owlbear/vite.svg",
     "popover": "https://victorseventv.github.io/daggerheart-owlbear/index.html",
     "height": 800,
     "width": 1200
